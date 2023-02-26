@@ -1,7 +1,11 @@
 from django.shortcuts import render
 from django.contrib.auth.decorators import login_required
-# Create your views here.
+from django.views.decorators.csrf import csrf_exempt
+from django.views.decorators.csrf import csrf_protect
+
 def index(request):
-    return render(request,'base.html')
-def login(requset):
-    return render(requset,'admin_login.html')
+    return render(request, 'base.html')
+
+@csrf_protect
+def login(request):
+    return render(request, 'admin_login.html')
