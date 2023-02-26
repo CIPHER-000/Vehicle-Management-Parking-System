@@ -81,7 +81,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'vehicle_parking_database',
         'USER':'root',
-        'PASSWORD':'1234',
+        'PASSWORD':'Saima@123',
     }
 }
 
