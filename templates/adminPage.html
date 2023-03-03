@@ -16,7 +16,8 @@
         }
         
         h1 {
-            color: #00FFFF;
+            color: #007bff;
+            font-family: 'Courier New', Courier, monospace;
         }
         
         body {
@@ -31,6 +32,7 @@
         .nav-link {
             font-weight: 700;
             font-size: 18px;
+            /* text-decoration: none; */
         }
         
         .card {
@@ -69,7 +71,8 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <a class="navbar-brand text-primary" href="#">Vehicle Parking Management System</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" 
+        aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
 		</button>
         <div class="collapse navbar-collapse" id="navbarNav">
@@ -81,7 +84,8 @@
                     <a class="nav-link text-info" href="#">Parking Lots</a>
                 </li>
                 <form class="d-flex">
-                    <button class="btn btn-outline-success" type="submit" "style=text-deoration: none;"><a href="login/">Admin Login</a></button>
+                    <button class="btn btn-outline-success" type="submit" style="text-decoration:none;">
+                        <a href="login/" style="text-decoration: none;">Admin Login</a></button>
                 </form>
             </ul>
             <ul class="navbar-nav">
@@ -94,7 +98,7 @@
 
 
     <div class="container mt-5">
-        <h1 class="text-center mb-5"><em><strong>Time to put your parking skills to the test, admin! Those spots aren't going to manage themselves, so get cracking!</strong></em></h1>
+        <h1 class="text-center mb-5"><strong>Time to put your parking skills to the test, admin! Those spots aren't going to manage themselves, so get cracking!</strong></h1>
 
 
         <div class="row">
