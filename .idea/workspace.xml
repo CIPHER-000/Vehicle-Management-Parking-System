@@ -2,40 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9d6fef0-d8b7-40b5-b16d-1e9507904dd3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/adminPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vehicleapp/migrations/0003_credit_cards.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vehicleapp/migrations/0004_parking_lots_parking_reservations_parking_spaces.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vehicleapp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vehicleparkingproject/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/VehicleParkingManagementSystem.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vehicle-Management-Parking-System" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehicleparkingproject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/FETCH_HEAD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehicleparkingproject/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehicleparkingproject/templates/admin_login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/admin_login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehicleparkingproject/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehicleparkingproject/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehicleparkingproject/vehicleapp/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehicleparkingproject/vehicleapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/vehicleapp/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehicleparkingproject/vehicleapp/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/vehicleapp/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehicleparkingproject/vehicleapp/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/vehicleapp/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehicleparkingproject/vehicleapp/migrations/0002_vehicles_alter_profiles_phone_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/vehicleapp/migrations/0002_vehicles_alter_profiles_phone_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehicleparkingproject/vehicleapp/migrations/0003_parking_lots_alter_vehicles_exit_date_and_more.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehicleparkingproject/vehicleapp/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/vehicleapp/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehicleparkingproject/vehicleapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/vehicleapp/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehicleparkingproject/vehicleapp/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/vehicleapp/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehicleparkingproject/vehicleapp/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehicleparkingproject/vehicleapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/vehicleapp/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehicleparkingproject/vehicleparkingproject/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/vehicleapp/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehicleparkingproject/vehicleparkingproject/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/vehicleparkingproject/asgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehicleparkingproject/vehicleparkingproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/vehicleparkingproject/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehicleparkingproject/vehicleparkingproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/vehicleparkingproject/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehicleparkingproject/vehicleparkingproject/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/vehicleparkingproject/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/DashboardPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/userLogin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/userSignup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/adminPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/adminPage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
